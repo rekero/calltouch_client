@@ -2,7 +2,8 @@
 
 
 class CalltouchClient
-
+  VERSION = '0.0.1'
+  
   class ApiError < StandardError
   end	
 
